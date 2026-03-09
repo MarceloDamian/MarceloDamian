@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi, I am Erick Damian Cabrera 👋
+
+🧠 Computer Science Graduate at Hunter College<br/>
+🧑‍💻 I engineer cross-platform products while experimenting machine learning fundamentals<br/>
+
 
 <!--
 **MarceloDamian/MarceloDamian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
