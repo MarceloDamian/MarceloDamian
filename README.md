@@ -1,6 +1,6 @@
 # Hi, I'm Erick Damian Cabrera 👋
 
-#@ 💫 About Me:
+##💫 About Me:
 🧠 Computer Science Graduate with concentrations in Economics and Mathematics at Hunter College<br/>
 🧑‍💻 I engineer cross-platform products while experimenting machine learning fundamentals<br/>
 
